@@ -1,0 +1,14 @@
+S:\.net-web\CRUD_MVC\Repo_mvc\bin\Debug\net8.0\Repo_mvc.deps.json
+S:\.net-web\CRUD_MVC\Repo_mvc\bin\Debug\net8.0\Repo_mvc.runtimeconfig.json
+S:\.net-web\CRUD_MVC\Repo_mvc\bin\Debug\net8.0\Repo_mvc.dll
+S:\.net-web\CRUD_MVC\Repo_mvc\bin\Debug\net8.0\Repo_mvc.pdb
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\Repo_mvc.csproj.AssemblyReference.cache
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\Repo_mvc.GeneratedMSBuildEditorConfig.editorconfig
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\Repo_mvc.AssemblyInfoInputs.cache
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\Repo_mvc.AssemblyInfo.cs
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\Repo_mvc.csproj.CoreCompileInputs.cache
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\Repo_mvc.dll
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\refint\Repo_mvc.dll
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\Repo_mvc.pdb
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\Repo_mvc.genruntimeconfig.cache
+S:\.net-web\CRUD_MVC\Repo_mvc\obj\Debug\net8.0\ref\Repo_mvc.dll
